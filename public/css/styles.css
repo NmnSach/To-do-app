@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,700');
+
+
+body{
+    background-color: #000000;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 100;
+}
+
+.centered{
+    padding-top: 200px;
+    text-align: center;
+}
+
+.secret-text{
+    text-align: center;
+    font-size: 2rem;
+    color: #fff;
+    background-color: #000;
+}
+
+.container-home{
+    color: black;
+}
+
+.lock-icon{
+    color: #fff;
+}
+
+.row{
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container h1{
+    text-align: center;
+    color: white;
+}
+
+.login-para{
+    color: #69686880;
+    margin-top: 15px;
+    margin-bottom: 0;
+}
