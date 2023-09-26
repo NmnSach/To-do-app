@@ -13,7 +13,7 @@ The ToDo List is made using Nodejs, Express, and Mongoose database. To run this 
 3. In your project directory, open a terminal and run the following command to install the required Node.js packages listed in your package.json:
    `npm i express body-parser ejs mongoose`
 4. Run the following command to start your Node.js application:
-   `node app.js`
+   `node app.js` <br>
    You should see the message "Server started" in the console, indicating that your application is running.
 5. Access the Application: Open a web browser and go to http://localhost:3000 to access the home page of the to-do app. 
 
